@@ -1,0 +1,4 @@
+model,r_pearson,direction_match,low_acc,high_acc,gap,gap_ratio
+Claude Sonnet,-1.0,False,0.95,0.9107142857142857,-0.03928571428571426,-0.2534562211981565
+GPT-5,,False,1.0,1.0,0.0,0.0
+Gemini 2.5 Flash,,False,1.0,1.0,0.0,0.0
