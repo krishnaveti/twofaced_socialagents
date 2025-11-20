@@ -1,0 +1,4 @@
+model,n_ses_levels,r_pearson,p_pearson,r_spearman,p_spearman,significant
+Claude Sonnet,2,-1.0,1.0,-0.9999999999999999,,False
+GPT-5,2,,,,,False
+Gemini 2.5 Flash,2,,,,,False
