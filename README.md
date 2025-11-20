@@ -1,8 +1,10 @@
 # Replication Package: Two-Faced Social Agents
 
-Replication materials for Results 1-4 and 8 from:
+Replication materials for Results:
 **"Two-Faced Social Agents: Context Collapse in Role-Conditioned Large Language Models"**
 by Vikram K. Suresh
+
+https://arxiv.org/abs/2511.15573 Paper is available here, please use the HTML if the PDF is still broken. Arxiv is fixing it.
 
 ## Quick Start
 
