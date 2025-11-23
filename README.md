@@ -2,7 +2,6 @@
 
 Replication materials for Results:
 **"Two-Faced Social Agents: Context Collapse in Role-Conditioned Large Language Models"**
-by Vikram K. Suresh
 
 https://arxiv.org/abs/2511.15573 Paper is available here.
 
