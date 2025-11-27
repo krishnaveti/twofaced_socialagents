@@ -42,11 +42,11 @@ python analysis_sat.py
 
 ## Data Files
 
-Located in `data/`:
-- `accuracy_results.csv` (N=7,290) - SAT response data
+Located in `data/`: Other files are similarly named to replicate findings at higher temperature and the claude extended replication
+- `accuracy_results.csv` (N=3,780) - SAT response data
 - `anova_results.csv` - Statistical test results
 - `preference_statistical.csv` - Preference task analysis
-- `reasoning_data.csv` (N=6,947) - Reasoning text for correct answers
+- `reasoning_data.csv` Reasoning text for correct answers
 - `linguistic_features.csv` - Extracted linguistic features
 - `linguistic_results.csv` - Linguistic statistical tests
 - `human_alignment.csv` - Human-AI comparison data
